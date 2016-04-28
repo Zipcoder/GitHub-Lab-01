@@ -10,14 +10,10 @@ Zihao Castine
 
 Wesley Traute
 
-<<<<<<< HEAD
-Matthew Belongia
-=======
 Michael Carroll
->>>>>>> 2cdd066035d2ea78bce51d3bc086b238c7be9271
 
 Alejandro Londono
 
-
+Matthew Belongia
 
 Dimitri Vaughn II
