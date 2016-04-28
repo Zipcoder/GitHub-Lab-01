@@ -27,6 +27,5 @@ Derek Eckenroad
 Steve Jamison
 
 Duevorn Harrisa
->>>>>>> 76aed43b68451173b27c2ed06c3de56804f9dcf4
 Min Lee was here!
 
