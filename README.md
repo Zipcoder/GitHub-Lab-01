@@ -22,6 +22,8 @@ Dimitri Vaughn II
 
 Sam Hudgens
 
+Derek Eckenroad
+
 Steve Jamison
 
 Duevorn Harrisa
