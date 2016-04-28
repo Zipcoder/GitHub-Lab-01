@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 froilan miranda
 
 Mikaila Akeredolu
