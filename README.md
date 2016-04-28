@@ -20,7 +20,9 @@ Alejandro Londono
 
 Matthew Belongia
 
-Dimitri Vaughn IIBrian Abbott
+Dimitri Vaughn II
+
+Brian Abbott
 
 Sam Hudgens
 
